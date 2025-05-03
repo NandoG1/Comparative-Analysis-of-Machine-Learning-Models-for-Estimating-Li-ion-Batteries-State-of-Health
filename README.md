@@ -4,7 +4,7 @@
 
 ## Overview
 
-This research project focuses on comparing various machine learning models to estimate the State of Health (SoH) of Lithium-ion batteries. The study evaluates different algorithms MAE, RMSE, and R^2 in predicting battery degradation, which is crucial for battery management systems.
+This research project focuses on comparing various machine learning models to estimate the State of Health (SoH) of Lithium-ion batteries. The study evaluates different algorithms MAE, RMSE, and R^2^ in predicting battery degradation, which is crucial for battery management systems.
 
 ## Dataset
 
